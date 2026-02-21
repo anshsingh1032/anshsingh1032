@@ -7,7 +7,8 @@
 </p>
 
 <hr>
-<h4 align="center">I am pursuing B.Tech. in IT. Coding and Web Designing enthusiast looking for an opportunity to show my skills. My moto is to learn from any situation, grow as an individual and always help others.</h4>
+<h4 align="center">
+I’m a full-stack enthusiast with a focus on React.js, Redux Toolkit, and modern web development. I love building interactive web apps, learning new technologies, and optimizing code for performance and scalability.</h4>
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/singhhh.anshhh)
@@ -27,7 +28,8 @@
 ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white)
 ![React Hook Form](https://img.shields.io/badge/React%20Hook%20Form-%23EC5990.svg?style=for-the-badge&logo=reacthookform&logoColor=white) 
-![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white)
+![Redux Toolkit](https://img.shields.io/badge/Redux%20Toolkit-593D88?style=for-the-badge&logo=redux&logoColor=white)
+
 
 
 ### 🖥️ Backend
