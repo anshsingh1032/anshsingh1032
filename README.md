@@ -1,67 +1,112 @@
-  <img src="https://capsule-render.vercel.app/api?type=venom&height=220&color=0:000000,100:a371f7&text=Hi%2C%20I'm%20Ansh%20Singh&fontSize=60&fontColor=FFFFFF&animation=fadeIn&fontAlignY=40" width="100%"/>
+  <!-- Header Banner -->
+  <img src="https://capsule-render.vercel.app/api?type=venom&height=220&color=0:000000,100:a371f7&text=Hi%2C%20I'm%20Ansh%20Singh&fontSize=60&fontColor=FFFFFF&animation=fadeIn&fontAlignY=40" width="100%" alt="Header Banner"/>
 
-<p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Information+Technology+Student;Full+Stack+Web+Developer;Always%20learning%20new%20things&amp;center=true&amp;width=500&amp;height=50"></a>
+  <!-- Typing Animation -->
+  <p align="center">
+    <a href="https://github.com/DenverCoder1/readme-typing-svg">
+      <img src="https://readme-typing-svg.herokuapp.com?lines=Information+Technology+Student;Full+Stack+Web+Developer;Always%20learning%20new%20things&center=true&width=500&height=50" alt="Typing Animation">
+    </a>
+  </p>
+
+  <!-- Visitors -->
+  <p align="center">
+    <img src="https://komarev.com/ghpvc/?username=anshsingh1032&label=Profile+Visitors&color=0e75b6&style=flat" alt="Profile Visitors">
+  </p>
+
+  <hr>
+
+  <!-- About -->
+  <h4 align="center">
+I’m a full-stack developer with hands-on experience in React, Node.js, Express, and MongoDB.
+I’m passionate about building end-to-end web applications that are scalable, efficient, and user-centric.
+  </h4>
+
+  <!-- Socials -->
+<h2>🌐 Socials:</h2>
+<p>
+  <a href="https://instagram.com/singhhh.anshhh" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white" alt="Instagram"></a>&nbsp;
+  <a href="https://linkedin.com/in/ansh-singh-9592bb329" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" alt="LinkedIn"></a>&nbsp;
+  <a href="mailto:thansh1032@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white" alt="Email"></a>
 </p>
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=anshsingh1032&label=Profile+Visitors&color=0e75b6&style=flat" alt="Profile Visitor Badge" />
-</p>
+  <!-- Skills -->
+  <h1>
+    <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="20" height="20">
+    Skills & Technologies
+  </h1>
 
-<hr>
-<h4 align="center">
-I’m a full-stack enthusiast with a focus on React.js, Redux Toolkit, and modern web development. I love building interactive web apps, learning new technologies, and optimizing code for performance and scalability.</h4>
+  <!-- Programming Languages -->
+  <h3>👨‍💻 Programming Languages</h3>
+  <p>
+    <img src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white">
+    <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white">
+    <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E">
+  </p>
 
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/singhhh.anshhh)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ansh-singh-9592bb329) 
-[![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:thansh1032@gmail.com) 
+  <!-- Frontend -->
+  <h3>🌐 Frontend</h3>
+  <p>
+    <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
+    <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
+    <img src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white">
+    <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB">
+    <img src="https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white">
+    <img src="https://img.shields.io/badge/React%20Hook%20Form-%23EC5990.svg?style=for-the-badge&logo=reacthookform&logoColor=white">
+    <img src="https://img.shields.io/badge/Redux%20Toolkit-593D88?style=for-the-badge&logo=redux&logoColor=white">
+  </p>
 
+  <!-- Backend -->
+  <h3>🖥️ Backend</h3>
+  <p>
+    <img src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white">
+    <img src="https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB">
+    <img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white">
+    <img src="https://img.shields.io/badge/Appwrite-%23FD366E.svg?style=for-the-badge&logo=appwrite&logoColor=white">
+  </p>
 
-# 💻 Tech Stack:
+  <!-- Tools -->
+  <h3>⚙️ Tools</h3>
+  <p>
+    <img src="https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7">
+    <img src="https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white">
+    <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white">
+    <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white">
+    <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white">
+  </p>
 
-### 👨‍💻 Programming Languages
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) 
+  <!-- GitHub Analytics -->
+  <h1>
+    <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="25" height="20">
+    GitHub Analytics
+  </h1>
 
-### 🌐 Frontend
+  <p align="center">
+    <img width="49%" src="https://lohit-readme-stats.vercel.app/api?username=anshsingh1032&show_icons=true&hide_title=true&theme=tokyonight&hide_border=true&bg_color=00000000&show_owner=true&rank_icon=percentile&count_private=true">
+    <img width="49%" src="https://github-readme-streak-stats-three-umber.vercel.app?user=anshsingh1032&theme=tokyonight&hide_border=true&background=00000000">
+  </p>
 
-![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white)
-![React Hook Form](https://img.shields.io/badge/React%20Hook%20Form-%23EC5990.svg?style=for-the-badge&logo=reacthookform&logoColor=white) 
-![Redux Toolkit](https://img.shields.io/badge/Redux%20Toolkit-593D88?style=for-the-badge&logo=redux&logoColor=white)
+  <p align="center">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=anshsingh1032&theme=tokyo-night&hide_border=true&bg_color=00000000">
+  </p>
 
+  <p align="center">
+    <img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=anshsingh1032&theme=tokyonight">
+  </p>
 
+  <p align="center">
+    <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=anshsingh1032&theme=tokyonight">
+    <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=anshsingh1032&theme=tokyonight">
+  </p>
 
-### 🖥️ Backend
+  <!-- Dev Quote -->
+  <h3>✍️ Random Dev Quote</h3>
+  <p align="center">
+    <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical">
+  </p>
 
-![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) 
-![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) 
-![EJS](https://img.shields.io/badge/ejs-%23B4CA65.svg?style=for-the-badge&logo=ejs&logoColor=black) 
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) 
-![Appwrite](https://img.shields.io/badge/Appwrite-%23FD366E.svg?style=for-the-badge&logo=appwrite&logoColor=white)
+  <hr>
 
-### ⚙️ Tools
+  <p align="center">✨ Thank you for visiting my profile! Let’s connect 🚀</p>
 
-![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) 
-![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) 
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) 
-![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) 
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=anshsingh1032&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=anshsingh1032&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=anshsingh1032&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
-### ✍️ Random Dev Quote
-<p align="center">
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical">
-</p>
-
----
-
-<p align="center">✨ Thank you for visiting my profile! Let’s connect 🚀</p>
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" alt="Bottom Line" width="100%" />
-</div>
-
+  <div align="center">
+    <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" alt="Bottom Line">
+  </div>
